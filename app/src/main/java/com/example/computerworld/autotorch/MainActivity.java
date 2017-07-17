@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                         flashBtn.setImageResource(R.drawable.off);
                     }
                     else{
-                        flashBtn.setImageResource(R.drawable.off);
+                        flashBtn.setImageResource(R.drawable.on);
                     }
                     CheckUserPermsions();
 
